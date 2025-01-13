@@ -1,5 +1,3 @@
-![](https://github.com/SIS-600/.github/blob/main/profile/hex600-min.png)
-
 # SIS-600: Statistics and Methods  
 ### Spring 2025
 
